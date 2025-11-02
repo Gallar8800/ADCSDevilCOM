@@ -630,8 +630,8 @@ public class ADCSClient : IDisposable
 
             switch ((CertificateDisposition)dwDisposition)
             {
-                case CertificateDisposition.ISSUED:
-                    Console.WriteLine("\n[+] ✓ Certificate ISSUED successfully!");
+                case CertificateDisposition.:
+                    Console.WriteLine("\n[+] Certificate ISSUED successfully!");
                     if (encodedCert.cb > 0 && encodedCert.pb != IntPtr.Zero)
                     {
                         Console.WriteLine($"    Certificate size: {encodedCert.cb} bytes");
